@@ -1,0 +1,110 @@
+html {
+  box-sizing: border-box;
+}
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+body {
+  background: white;
+  color: #1f2041;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+  font-size: 15px;
+  line-height: 1.5;
+}
+h1 {
+  font-size: 65px;
+}
+h2 {
+  font-size: 25px;
+}
+h1,
+h2 {
+  font-family: "Merienda", cursive;
+  font-weight: 400;
+  margin: 0px;
+  text-align: center;
+}
+.content-wrap {
+  max-width: 800px;
+  width: 85%;
+  margin: 0 auto;
+  padding: 60px 0;
+  overflow: hidden;
+}
+
+/* profile
+------------------------------- */
+header {
+  background: #1f2041;
+  color: #f7fff7;
+}
+/* main content
+------------------------------- */
+.bold {
+  font-family: "Merienda", cursive;
+}
+img {
+  float: right;
+  padding-right: 20px;
+  margin-right: 20px;
+}
+.job {
+  float: right;
+  padding: 40px;
+  margin: 10px;
+}
+.my_pic {
+  float: right;
+  padding: 15px;
+  margin: 15px;
+}
+.ideal-job {
+  overflow: hidden;
+}
+.personal-profile {
+  overflow: hidden;
+}
+.link {
+  color: #1f2041;
+}
+.divider > section {
+  border-bottom: 1px dashed #343434;
+  padding: 25px 0;
+}
+.divider > section:last-of-type {
+  border-bottom: none;
+}
+h3 {
+  font-family: "Merienda", cursive;
+  font-weight: bolder;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+/* contact info
+------------------------------- */
+footer {
+  background: #1f2041;
+  color: #f7fff7;
+  text-align: center;
+}
+.contact-list {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+}
+.contact-list a {
+  padding: 15px;
+  display: inline-block;
+}
+a {
+  color: white;
+}
+a:hover {
+  text-decoration: none;
+}
