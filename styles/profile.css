@@ -23,7 +23,7 @@ h2 {
 }
 h1,
 h2 {
-  font-family: "Merienda", cursive;
+  font-family: "Alegreya", serif;
   font-weight: 400;
   margin: 0px;
   text-align: center;
@@ -45,7 +45,7 @@ header {
 /* main content
 ------------------------------- */
 .bold {
-  font-family: "Merienda", cursive;
+  font-family: "Alegreya", serif;
 }
 img {
   float: right;
@@ -79,7 +79,7 @@ img {
   border-bottom: none;
 }
 h3 {
-  font-family: "Merienda", cursive;
+  font-family: "Alegreya", serif;
   font-weight: bolder;
   font-size: 20px;
   margin-bottom: 0;
