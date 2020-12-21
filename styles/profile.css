@@ -46,6 +46,7 @@ header {
 ------------------------------- */
 .bold {
   font-family: "Alegreya", serif;
+  font-size: 15px;
 }
 img {
   float: right;
